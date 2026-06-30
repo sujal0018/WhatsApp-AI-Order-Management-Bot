@@ -215,12 +215,6 @@ Feel free to fork the repository, improve the workflow, and submit a pull reques
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
